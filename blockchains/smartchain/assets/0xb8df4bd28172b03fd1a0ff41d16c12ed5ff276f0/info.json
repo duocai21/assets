@@ -3,9 +3,23 @@
   "symbol": "ETB",
   "type": "BEP20",
   "decimals": 18,
-  "description": "中文社区WEB新概念代币",
+  "description": "以太币（ETB）是基于币安智能链（BSC）的去中心化数字资产，旨在用于WEB3社区交流。",
   "website": "https://example.com",
-  "explorer": "https://testnet.bscscan.com/token/0xb8df4bd28172b03fd1a0ff41d16c12ed5ff276f0",
+  "explorer": "https://bscscan.com/token/0x7ADBdDf7b0120b63825dF255f15743c2417b10DC",
   "status": "active",
-  "id": "0xb8df4bd28172b03fd1a0ff41d16c12ed5ff276f0"
+  "id": "0x7ADBdDf7b0120b63825dF255f15743c2417b10DC",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/"
+    }
+  ]
 }
